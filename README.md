@@ -1,5 +1,5 @@
 ## quiz app link ("https://quiz-aptitude.netlify.app/")
-### select the correct answer from the options given below and submit the quiz and view your score
+### select the correct answer from the options given below the questions and submit the quiz and view your score.
 <br>
 <br>
 <br>
